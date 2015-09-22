@@ -32,4 +32,4 @@ public class Euler_7
 			}
 		}
 	}
-} // End class
+}
